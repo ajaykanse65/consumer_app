@@ -1,0 +1,4 @@
+#Sat Jun 24 17:11:12 IST 2023
+base.0=/Users/apple/StudioProjects/zippy_consumer_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
